@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm an aspiring web developer passionate about bui
 
 - 🎓 Currently in my third year of Computer Science at Brock University.
 - 🌱 I’m learning web development with a focus on front-end and back-end technologies through Githubdocs and Udemy.
-- 💻 Proficient in Java .Im currently learning HTML, CSS, JavaScript, React, and Node.js.
+- 💻 Proficient in Java, HTML, CSS, JavaScript, React, and Node.js.
 - 🔍 Looking for summer 2025 internships in web development.
 
 ## 💼 Skills
