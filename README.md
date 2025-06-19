@@ -15,22 +15,15 @@ Welcome to my GitHub profile! I'm an aspiring web developer passionate about bui
 - ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-- **Currently Learning:** Node.js, Express.js, React
-- **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ
+
 
 ## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayaan-rathod-6311a3307)
 
-## 🌟 Projects I'm Proud Of
-
-- Coming soon!!!
-- Coming soon!!!
 
 ## 🎯 Goals
 
-- Complete a full-stack web development course by [March 5,2025].
-- Contribute to open-source projects.
 - Secure a summer 2025 internship in web development.
 
 ## 🤝 Let's Connect!
