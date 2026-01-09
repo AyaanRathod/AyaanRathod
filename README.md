@@ -12,9 +12,9 @@
 ---
 
 ## 🔭 Quick facts
-- 🎓 Third‑year Honours BSc Computer Science — Brock University (Software Eng. concentration)  
-- 🌱 Learning: system design, algorithms, advanced full‑stack techniques  
-- 🔧 Daily tools: Java · JavaScript (React, Node) · HTML · CSS · SQL · Python  
+- 🎓 Fourth‑year Honours BSc Computer Science — Brock University (Software Eng. concentration)  
+- 🌱 Learning: System Design, Algorithms, Advanced Full‑stack Techniques, Software Engineering (Agile Development) 
+- 🔧 Daily tools: Java · JavaScript (React, Nodejs, TypeScript) · HTML · CSS · SQL · Python  
 - 📅 Seeking: Summer 2026 internships (full‑time); part‑time available during term
 
 ---
@@ -33,13 +33,16 @@
 ---
 
 ## 🏆 Experience & highlights
+-🛠 Brock Computer Science Club (ACM Student Chapter) — Web Developer & Executive — Oct 2025–Present  
+  - Built backend services and integrated Stripe API for secure payments.
+
 - 🎖️ eBay Emerging Talent — Pathways Fellow (1 of 80) — May–Aug 2025  
   Mentorship, algorithm practice, and mock coding assessments to sharpen interviewing skills.
 
 - 📦 Intelcom — Package Handler — Jun–Aug 2025  
   High-volume operations (6,000+ packages/day during peaks), reliability, and teamwork.
 
-- ⚡ MindHack — University hackathon participant  
+- ⚡ MindHack — University hackathon runner-up
   Rapid prototyping, teamwork, and presenting an MVP under time pressure.
 
 ---
@@ -59,10 +62,9 @@ Tools: Git · GitHub · VS Code · IntelliJ · XAMPP · MySQL · Linux/Unix
 ---
 
 ## 🎯 Current focus
-- Polishing the Sorting Algorithm Visualizer (performance + accessibility)  
-- Preparing for technical interviews (algorithms + system design)  
-- Building small utilities & browser tools that solve everyday developer friction
-
+- Graduating from Brock
+- Getting a 2026 internship
+- Participating in another hackathon before grad.
 ---
 
 ## 📫 Let’s connect
