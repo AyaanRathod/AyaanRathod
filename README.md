@@ -33,8 +33,8 @@
 ---
 
 ## 🏆 Experience & highlights
--🛠 Brock Computer Science Club (ACM Student Chapter) — Web Developer & Executive — Oct 2025–Present  
-  - Built backend services and integrated Stripe API for secure payments.
+- 🛠 Brock Computer Science Club (ACM Student Chapter) — Web Developer & Executive — Oct 2025–Present
+  Built backend services and integrated Stripe API for secure payments. 
 
 - 🎖️ eBay Emerging Talent — Pathways Fellow (1 of 80) — May–Aug 2025  
   Mentorship, algorithm practice, and mock coding assessments to sharpen interviewing skills.
