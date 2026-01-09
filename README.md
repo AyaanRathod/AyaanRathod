@@ -33,7 +33,7 @@
 ---
 
 ## 🏆 Experience & highlights
-- 🛠 Brock Computer Science Club (ACM Student Chapter) — Web Developer & Executive — Oct 2025–Present
+- 🛠 Brock Computer Science Club (ACM Student Chapter) — Web Developer & Executive — Oct 2025–Present                     
   Built backend services and integrated Stripe API for secure payments. 
 
 - 🎖️ eBay Emerging Talent — Pathways Fellow (1 of 80) — May–Aug 2025  
@@ -42,7 +42,7 @@
 - 📦 Intelcom — Package Handler — Jun–Aug 2025  
   High-volume operations (6,000+ packages/day during peaks), reliability, and teamwork.
 
-- ⚡ MindHack — University hackathon runner-up
+- ⚡ MindHack — University hackathon runner-up                        
   Rapid prototyping, teamwork, and presenting an MVP under time pressure.
 
 ---
